@@ -123,7 +123,7 @@ img {
 
 a {
     text-decoration: none;
-    color: #191919;
+  /*  color: #191919;*/
     -o-transition: .5s;
     -ms-transition: .5s;
     -moz-transition: .5s;
